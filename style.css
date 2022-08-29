@@ -10,7 +10,7 @@ body{
 }
 .hero{
    
-    background-image: url("/KTM/Images/background2.png");
+    background-image: url("KTM/Images/background2.png");
 
     align-items: center;
     justify-content: center;
